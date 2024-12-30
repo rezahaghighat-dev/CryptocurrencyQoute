@@ -1,0 +1,15 @@
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\bin\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.deps.json
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\bin\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\bin\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.csproj.AssemblyReference.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infr.D1B9AD31.Up2Date
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\refint\App.Infra.ExternalServices.ExchaneRatesAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.ExternalServices.ExchaneRatesAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.ExchaneRatesAPI\obj\Debug\net8.0\ref\App.Infra.ExternalServices.ExchaneRatesAPI.dll

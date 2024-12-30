@@ -1,0 +1,11 @@
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.deps.json
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\refint\App.Domain.Core.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\.NET\InterviewChallange\App.Domain.Core\obj\Debug\net8.0\ref\App.Domain.Core.dll

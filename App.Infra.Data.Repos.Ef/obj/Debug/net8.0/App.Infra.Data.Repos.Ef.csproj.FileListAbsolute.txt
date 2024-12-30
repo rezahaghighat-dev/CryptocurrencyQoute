@@ -1,0 +1,11 @@
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\bin\Debug\net8.0\App.Infra.Data.Repos.Ef.deps.json
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\bin\Debug\net8.0\App.Infra.Data.Repos.Ef.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\bin\Debug\net8.0\App.Infra.Data.Repos.Ef.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\App.Infra.Data.Repos.Ef.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\App.Infra.Data.Repos.Ef.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\App.Infra.Data.Repos.Ef.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\App.Infra.Data.Repos.Ef.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\App.Infra.Data.Repos.Ef.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\refint\App.Infra.Data.Repos.Ef.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\App.Infra.Data.Repos.Ef.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.Ef\obj\Debug\net8.0\ref\App.Infra.Data.Repos.Ef.dll

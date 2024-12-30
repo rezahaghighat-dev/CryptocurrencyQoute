@@ -1,0 +1,11 @@
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Db.SqlServer.Ef.deps.json
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Db.SqlServer.Ef.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Db.SqlServer.Ef.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Db.SqlServer.Ef.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Db.SqlServer.Ef.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Db.SqlServer.Ef.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Db.SqlServer.Ef.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Db.SqlServer.Ef.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\refint\App.Infra.Db.SqlServer.Ef.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Db.SqlServer.Ef.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.Db.SqlServer.Ef\obj\Debug\net8.0\ref\App.Infra.Db.SqlServer.Ef.dll

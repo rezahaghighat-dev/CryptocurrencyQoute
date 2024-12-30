@@ -1,0 +1,17 @@
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.deps.json
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.pdb
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\bin\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.AssemblyReference.cache
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Doma.EF676C44.Up2Date
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\refint\App.Domain.Services.dll
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.pdb
+E:\Projects\.NET\InterviewChallange\App.Domain.Services\obj\Debug\net8.0\ref\App.Domain.Services.dll

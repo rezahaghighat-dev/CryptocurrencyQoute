@@ -1,0 +1,11 @@
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\bin\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.deps.json
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\bin\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\bin\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\refint\App.Infra.Data.Repos.ExchaneRatesAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\App.Infra.Data.Repos.ExchaneRatesAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.Data.Repos.ExchaneRatesAPI\obj\Debug\net8.0\ref\App.Infra.Data.Repos.ExchaneRatesAPI.dll

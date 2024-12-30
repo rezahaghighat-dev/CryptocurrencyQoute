@@ -1,0 +1,15 @@
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\bin\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.deps.json
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\bin\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\bin\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\bin\Debug\net8.0\App.Domain.Core.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\bin\Debug\net8.0\App.Domain.Core.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.csproj.AssemblyReference.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.AssemblyInfoInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.AssemblyInfo.cs
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.csproj.CoreCompileInputs.cache
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infr.70CBF9D2.Up2Date
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\refint\App.Infra.ExternalServices.CoinMarketCapAPI.dll
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\App.Infra.ExternalServices.CoinMarketCapAPI.pdb
+E:\Projects\.NET\InterviewChallange\App.Infra.ExternalServices.CoinMarketCapAPI\obj\Debug\net8.0\ref\App.Infra.ExternalServices.CoinMarketCapAPI.dll

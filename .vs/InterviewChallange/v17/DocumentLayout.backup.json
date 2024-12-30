@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\.NET\\InterviewChallange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C39627-5E88-468A-B7E0-164FD2A0A433}|App.EndPoints.WebAPI\\App.EndPoints.WebAPI.csproj|e:\\projects\\.net\\interviewchallange\\app.endpoints.webapi\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C39627-5E88-468A-B7E0-164FD2A0A433}|App.EndPoints.WebAPI\\App.EndPoints.WebAPI.csproj|solutionrelative:app.endpoints.webapi\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C39627-5E88-468A-B7E0-164FD2A0A433}|App.EndPoints.WebAPI\\App.EndPoints.WebAPI.csproj|e:\\projects\\.net\\interviewchallange\\app.endpoints.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C39627-5E88-468A-B7E0-164FD2A0A433}|App.EndPoints.WebAPI\\App.EndPoints.WebAPI.csproj|solutionrelative:app.endpoints.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\.net\\interviewchallange\\app.domain.core\\appservices\\icurrencyinfoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\appservices\\icurrencyinfoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1F7A77-6439-44AF-8B75-4389A44D4416}|App.Domain.AppServices\\App.Domain.AppServices.csproj|e:\\projects\\.net\\interviewchallange\\app.domain.appservices\\currencyinfoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1F7A77-6439-44AF-8B75-4389A44D4416}|App.Domain.AppServices\\App.Domain.AppServices.csproj|solutionrelative:app.domain.appservices\\currencyinfoappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0852D7-9E8C-4127-9B29-8E08D083CE2A}|App.Domain.Services\\App.Domain.Services.csproj|e:\\projects\\.net\\interviewchallange\\app.domain.services\\currencyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0852D7-9E8C-4127-9B29-8E08D083CE2A}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\currencyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E4DA28-6519-4825-920E-72A1E721F2F2}|App.Infra.ExternalServices.CoinMarketCapAPI\\App.Infra.ExternalServices.CoinMarketCapAPI.csproj|e:\\projects\\.net\\interviewchallange\\app.infra.externalservices.coinmarketcapapi\\currencyinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E4DA28-6519-4825-920E-72A1E721F2F2}|App.Infra.ExternalServices.CoinMarketCapAPI\\App.Infra.ExternalServices.CoinMarketCapAPI.csproj|solutionrelative:app.infra.externalservices.coinmarketcapapi\\currencyinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\.net\\interviewchallange\\app.domain.core\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\.net\\interviewchallange\\app.domain.core\\services\\icurrencyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\services\\icurrencyinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|e:\\projects\\.net\\interviewchallange\\app.domain.core\\data\\icurrencyinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEB2495-302F-49A0-A528-09DFB55C3C58}|App.Domain.Core\\App.Domain.Core.csproj|solutionrelative:app.domain.core\\data\\icurrencyinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E4DA28-6519-4825-920E-72A1E721F2F2}|App.Infra.ExternalServices.CoinMarketCapAPI\\App.Infra.ExternalServices.CoinMarketCapAPI.csproj|e:\\projects\\.net\\interviewchallange\\app.infra.externalservices.coinmarketcapapi\\coinmarketcapapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E4DA28-6519-4825-920E-72A1E721F2F2}|App.Infra.ExternalServices.CoinMarketCapAPI\\App.Infra.ExternalServices.CoinMarketCapAPI.csproj|solutionrelative:app.infra.externalservices.coinmarketcapapi\\coinmarketcapapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7821B223-EEC4-4953-A85D-778E427560EA}|App.Infra.ExternalServices.ExchaneRatesAPI\\App.Infra.ExternalServices.ExchaneRatesAPI.csproj|e:\\projects\\.net\\interviewchallange\\app.infra.externalservices.exchaneratesapi\\currencyinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7821B223-EEC4-4953-A85D-778E427560EA}|App.Infra.ExternalServices.ExchaneRatesAPI\\App.Infra.ExternalServices.ExchaneRatesAPI.csproj|solutionrelative:app.infra.externalservices.exchaneratesapi\\currencyinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\DTOs\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\DTOs\\ServiceResponse.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\DTOs\\ServiceResponse.cs",
+              "RelativeToolTip": "App.Domain.Core\\DTOs\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:05:21.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrenciesController.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.EndPoints.WebAPI\\Controllers\\CurrenciesController.cs",
+              "RelativeDocumentMoniker": "App.EndPoints.WebAPI\\Controllers\\CurrenciesController.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.EndPoints.WebAPI\\Controllers\\CurrenciesController.cs",
+              "RelativeToolTip": "App.EndPoints.WebAPI\\Controllers\\CurrenciesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:07:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyInfoService.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Services\\CurrencyInfoService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\CurrencyInfoService.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Services\\CurrencyInfoService.cs",
+              "RelativeToolTip": "App.Domain.Services\\CurrencyInfoService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:42:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICurrencyInfoAppService.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\AppServices\\ICurrencyInfoAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\AppServices\\ICurrencyInfoAppService.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\AppServices\\ICurrencyInfoAppService.cs",
+              "RelativeToolTip": "App.Domain.Core\\AppServices\\ICurrencyInfoAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:24:49.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.EndPoints.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "App.EndPoints.WebAPI\\Program.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.EndPoints.WebAPI\\Program.cs",
+              "RelativeToolTip": "App.EndPoints.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:43:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyInfoAppService.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.AppServices\\CurrencyInfoAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.AppServices\\CurrencyInfoAppService.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.AppServices\\CurrencyInfoAppService.cs",
+              "RelativeToolTip": "App.Domain.AppServices\\CurrencyInfoAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:43:05.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyInfoRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Infra.ExternalServices.CoinMarketCapAPI\\CurrencyInfoRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.ExternalServices.CoinMarketCapAPI\\CurrencyInfoRepository.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Infra.ExternalServices.CoinMarketCapAPI\\CurrencyInfoRepository.cs",
+              "RelativeToolTip": "App.Infra.ExternalServices.CoinMarketCapAPI\\CurrencyInfoRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:05:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICurrencyInfoService.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\Services\\ICurrencyInfoService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Services\\ICurrencyInfoService.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\Services\\ICurrencyInfoService.cs",
+              "RelativeToolTip": "App.Domain.Core\\Services\\ICurrencyInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:30:07.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICurrencyInfoRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\Data\\ICurrencyInfoRepository.cs",
+              "RelativeDocumentMoniker": "App.Domain.Core\\Data\\ICurrencyInfoRepository.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Domain.Core\\Data\\ICurrencyInfoRepository.cs",
+              "RelativeToolTip": "App.Domain.Core\\Data\\ICurrencyInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:30:56.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoinMarketCapAPIConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Infra.ExternalServices.CoinMarketCapAPI\\CoinMarketCapAPIConfig.cs",
+              "RelativeDocumentMoniker": "App.Infra.ExternalServices.CoinMarketCapAPI\\CoinMarketCapAPIConfig.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Infra.ExternalServices.CoinMarketCapAPI\\CoinMarketCapAPIConfig.cs",
+              "RelativeToolTip": "App.Infra.ExternalServices.CoinMarketCapAPI\\CoinMarketCapAPIConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:59:44.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrencyInfoRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\.NET\\InterviewChallange\\App.Infra.ExternalServices.ExchaneRatesAPI\\CurrencyInfoRepository.cs",
+              "RelativeDocumentMoniker": "App.Infra.ExternalServices.ExchaneRatesAPI\\CurrencyInfoRepository.cs",
+              "ToolTip": "E:\\Projects\\.NET\\InterviewChallange\\App.Infra.ExternalServices.ExchaneRatesAPI\\CurrencyInfoRepository.cs",
+              "RelativeToolTip": "App.Infra.ExternalServices.ExchaneRatesAPI\\CurrencyInfoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:40:11.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
